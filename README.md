@@ -4,7 +4,7 @@ A generic model to Laplace 2nd order transfer functions
 1-	Função 1/s
 •	dt=0.01 frequência=100.
 
-![My image](tomalribas/TransferFunction/images/tf1-s.png)
+![My image](/images/tf1-s.png)
 
 Somatório do erro = proporcional ao numero de amostra devido a característica da função. Para t=20 erro = 0.4995 para t=1000 erro=4.995.
 Desvio padrão = 0.004995
